@@ -1,4 +1,4 @@
-module github.com/chebyrash/promise
+module github.com/Geo25rey/promise
 
 go 1.19
 
